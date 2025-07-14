@@ -61,13 +61,13 @@ CSS STRUCTURE:
 
 /* Theme Colors */
 :root {
-  --accent-color: #CECCFF;
+  --accent-color: #191919;
   --dark-color: #222222;
   --light-dark-color: #727272;
   --light-color: #fff;
   --grey-color: #dbdbdb;
   --light-grey-color: #fafafa;
-  --primary-color: #CECCFF;
+  --primary-color: #191919;
   --light-primary-color: #eef1f3;
 }
 
@@ -98,7 +98,7 @@ body {
   --bs-body-line-height: 2;
   --bs-body-color: #222222;
 
-  --bs-primary: #CECCFF;
+  --bs-primary: #191919;
   --bs-primary-rgb: 206, 204, 255;
 
   --bs-primary-bg-subtle: #FFF9EB;
